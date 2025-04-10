@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: pgAudit on macOS with Apple Silicon
+description: A comprehensive guide for installing and configuring PostgreSQL Audit Extension on macOS with M-series processors
+author: Gatescrispy
+github:
+  is_project_page: true
+  repository_url: https://github.com/Gatescrispy/pgaudit-macos-silicon-guide
+  owner_url: https://github.com/Gatescrispy
+  owner_name: Gatescrispy
+google_analytics: 
+show_downloads: true
+plugins:
+  - jekyll-seo-tag
